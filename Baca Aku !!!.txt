@@ -1,0 +1,16 @@
+Tidak perlu database, semua sudah di setting melalui seeder
+
+Akun yang sudah tersedia :
+
+- Admin :
+	Email => admin@gmail.com
+- Siswa :
+	Email => student@gmail.com
+- Kesiswaan :
+	Email => kesiswaan@gmail.com
+- Pembina :
+	Email => pembinapaskib@gmail.com
+	Email => pembinaremas@gmail.com
+	Email => pembinapramuka@gmail.com
+
+Password semua akun = 1
