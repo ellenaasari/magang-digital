@@ -1,4 +1,4 @@
-![Digilib](https://user-images.githubusercontent.com/92472860/221360898-e4518060-5acc-40c6-baf5-52613a3ae63d.png)
+![magdi](https://user-images.githubusercontent.com/92472860/225190567-baa456da-2cc7-4b62-8f92-ddd43751cd86.png)
 <h1 align="center"> 🪷 Magang Digital (magdi) 🪷 </h1>
 <p align="center">Magdi merupakan aplikasi management magang siswa SMK Negeri 6 Jember secara Digital.</p>
 
