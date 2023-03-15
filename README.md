@@ -8,7 +8,7 @@
 1. Clone Project ini 
     ```bash
     git clone https://github.com/ellenaasari/magang-digital.git
-    cd digilib
+    cd magdi
     ```
 2. Instal dependensi
     ```bash
@@ -27,7 +27,7 @@
     php artisan key:generate
     ```
 
-4. Buat database 'pbopkl' pada phpmyadmin
+4. Buat database 'magdi' pada phpmyadmin
 
 5. Migrate database
     ```bash
